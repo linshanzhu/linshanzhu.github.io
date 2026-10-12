@@ -1,67 +1,104 @@
+
 ---
-title: "Teaching"
-subtitle: "I teach."
+title: "Teaching & Mentoring"
+description-meta: "Teaching philosophy, instructional experience, and research mentoring of Linshan Zhu, Ph.D."
 title-block-banner: false
+toc: false
+page-layout: article
 ---
 
+## Teaching Philosophy
 
-## Class 1
+I believe that the most meaningful measure of learning is whether students can apply fundamental principles to unfamiliar problems. My teaching emphasizes conceptual understanding, quantitative reasoning, experimental design, and independent problem-solving rather than memorization alone.
 
-::: {.grid}
+I combine step-by-step instruction with active learning, real-world research examples, and modern visualization tools. In bioengineering courses, I connect foundational concepts to authentic scientific challenges, such as designing molecular biosensors, interpreting cellular signaling dynamics, or evaluating engineered therapeutic systems.
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+My goal is for students to develop the confidence and intellectual independence to ask meaningful questions, critically evaluate evidence, and defend their scientific reasoning.
 
-:::
+## Teaching Experience
 
-::: {.g-col-12 .g-col-md-10}
+### University of Southern California
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+**BME 599 — Guest Lecturer**
 
-Class 1 introduction.
+Delivered guest instruction in microscopy imaging.
 
-:::
+### University of California, San Diego
 
-:::
+**Teaching Assistant**
 
+- **Principles of Biomedical Imaging**
+- **Molecular Imaging and Quantitation in Living Cells**
+- **Molecular Components of Living Systems**
 
-## Class 2
+Responsibilities included leading discussion sections, holding office hours, supporting student learning, and helping students understand fundamental biological and engineering concepts.
 
-::: {.grid}
+During the transition to online instruction in 2020, I adapted laboratory teaching materials to support experimental design and data interpretation in a virtual learning environment.
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+## Research Mentoring
 
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
+Mentoring is a central part of my academic work. I have worked with trainees at different stages of their education, providing individualized guidance in experimental design, scientific reasoning, data analysis, research communication, and career development.
 
 
-## Class 3
+```{=html}
+<div class="mentoring-stats">
+  <div class="mentoring-stat">
+    <span class="stat-number">3</span>
+    <span class="stat-label">Ph.D. Students</span>
+  </div>
+  <div class="mentoring-stat">
+    <span class="stat-number">6</span>
+    <span class="stat-label">Master's Students</span>
+  </div>
+  <div class="mentoring-stat">
+    <span class="stat-number">3</span>
+    <span class="stat-label">Undergraduates</span>
+  </div>
+  <div class="mentoring-stat">
+    <span class="stat-number">1</span>
+    <span class="stat-label">Visiting Scholar</span>
+  </div>
+</div>
+```
 
-::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+### Selected Mentoring Outcomes
 
-:::
+- **NIH F31 Fellowship:** A Ph.D. trainee I mentored successfully obtained an NIH F31 fellowship.
+- **Conference Presentations:** Trainees have presented their research at the Biomedical Engineering Society (BMES) Annual Meeting.
+- **Peer-Reviewed Publication:** An undergraduate researcher I mentored contributed to a peer-reviewed publication.
+- **Career Development:** An undergraduate trainee I supervised subsequently matriculated into medical school.
 
-::: {.g-col-12 .g-col-md-10}
+My mentoring philosophy centers on progressive independence. I encourage trainees to formulate meaningful research questions, design rigorous experiments, interpret data critically, and communicate their findings clearly. I also emphasize accessible guidance, constructive feedback, and a supportive environment that maintains high scientific standards.
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+## Courses I Can Teach
 
-Class 3 introduction. 
+I am prepared to contribute to undergraduate and graduate education across biology, bioengineering, and biomedical sciences.
 
-:::
+### Core Courses
 
-:::
+- Cell and Molecular Biology
+- Genetics
+- Physiology
+- Molecular and Cellular Bioengineering
+- Biomedical Imaging
+- Introduction to Biomedical Engineering
+- Immunology
 
+### Advanced Courses and Proposed Electives
 
+- Synthetic Biology
+- Protein and Cell Engineering
+- Cancer Immunoengineering
+- Molecular Biosensors and Live-Cell Imaging
+- Genome Engineering
+- Programmable Cellular Therapeutics
+- Focused Ultrasound in Biomedical Engineering
+
+I am particularly interested in developing **project-based courses** in which students design biological circuits, analyze experimental datasets, evaluate engineering trade-offs, and propose solutions to biomedical problems.
+
+## Educational Goals
+
+I aim to prepare students not only to understand existing biological knowledge but also to question assumptions, integrate ideas across disciplines, and develop original approaches to scientific challenges.
+
+Ultimately, I define successful teaching by whether students can **think independently, solve unfamiliar problems, and defend their reasoning with evidence**.

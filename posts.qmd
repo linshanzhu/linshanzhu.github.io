@@ -1,25 +1,84 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
-listing: 
-  sort: "date desc"
-  type: default
-  page-size: 100
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: true
-  contents: 
-      - posts
-      - posts/post-links.yml  # Use this file to add external links
-#      categories: [] 
-
-#page-layout: full
-draft-mode: unlinked
-page-navigation: false
+title: "News & Events"
+description-meta: "Selected research publications and academic updates from Linshan Zhu."
 title-block-banner: false
+toc: false
+page-layout: article
 ---
 
-:::{#posts}
+Recent research publications and selected academic updates. For the full bibliography, see [Publications](publications.qmd).
+
+## 2026
+
+::: {.news-entry}
+::: {.news-year}
+2026
 :::
+::: {.news-body}
+### CisCAR research published in *Molecular Therapy Oncology*
+
+Our study introduces focused-ultrasound-controllable CisCAR T cells that express their own target antigen to trigger self-activation and local bystander killing, including against antigen-negative tumor cells.
+
+[Read the paper ↗](https://doi.org/10.1016/j.omton.2026.201323)
+:::
+:::
+
+::: {.news-entry}
+::: {.news-year}
+2026
+:::
+::: {.news-body}
+### Ultrasound-primed CAR T-cell therapy reported in *Science Advances*
+
+Our collaborative work explores a tumor-hallmark-gated, ultrasound-primed approach to guide CAR T-cell activity in solid tumors.
+
+[Read the paper ↗](https://doi.org/10.1126/sciadv.aed0666)
+:::
+:::
+
+## 2025
+
+::: {.news-entry}
+::: {.news-year}
+2025
+:::
+::: {.news-body}
+### EchoBack-CAR T-cell study published in *Cell*
+
+Our collaborative study reports a sonogenetic platform for engineering externally controllable CAR T cells.
+
+[Read the paper ↗](https://doi.org/10.1016/j.cell.2025.02.035)
+:::
+:::
+
+::: {.news-entry}
+::: {.news-year}
+2025
+:::
+::: {.news-body}
+### Ultrasound mechanogenetics for CAR T-cell therapy reported in *Nature Materials*
+
+Our collaborative research investigates ultrasound-based tumor priming as an approach to improve CAR T-cell treatment.
+
+[Read the paper ↗](https://doi.org/10.1038/s41563-025-02391-8)
+:::
+:::
+
+## 2024
+
+::: {.news-entry}
+::: {.news-year}
+2024
+:::
+::: {.news-body}
+### PDbody study published in *ACS Nano*
+
+We engineered a PD-L1-targeting monobody through directed evolution and incorporated it into a SynNotch-gated cellular therapy system.
+
+[Read the paper ↗](https://doi.org/10.1021/acsnano.4c01597)
+:::
+:::
+
+## Conferences & Presentations
+
+Conference announcements, invited talks, and poster presentations will be added as their dates and details are confirmed.

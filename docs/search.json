@@ -1,45 +1,164 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Mentoring",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "I believe that the most meaningful measure of learning is whether students can apply fundamental principles to unfamiliar problems. My teaching emphasizes conceptual understanding, quantitative reasoning, experimental design, and independent problem-solving rather than memorization alone.\nI combine step-by-step instruction with active learning, real-world research examples, and modern visualization tools. In bioengineering courses, I connect foundational concepts to authentic scientific challenges, such as designing molecular biosensors, interpreting cellular signaling dynamics, or evaluating engineered therapeutic systems.\nMy goal is for students to develop the confidence and intellectual independence to ask meaningful questions, critically evaluate evidence, and defend their scientific reasoning."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching & Mentoring",
+    "section": "",
+    "text": "I believe that the most meaningful measure of learning is whether students can apply fundamental principles to unfamiliar problems. My teaching emphasizes conceptual understanding, quantitative reasoning, experimental design, and independent problem-solving rather than memorization alone.\nI combine step-by-step instruction with active learning, real-world research examples, and modern visualization tools. In bioengineering courses, I connect foundational concepts to authentic scientific challenges, such as designing molecular biosensors, interpreting cellular signaling dynamics, or evaluating engineered therapeutic systems.\nMy goal is for students to develop the confidence and intellectual independence to ask meaningful questions, critically evaluate evidence, and defend their scientific reasoning."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching & Mentoring",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nUniversity of Southern California\nBME 599 — Guest Lecturer\nDelivered guest instruction in microscopy imaging.\n\n\nUniversity of California, San Diego\nTeaching Assistant\n\nPrinciples of Biomedical Imaging\nMolecular Imaging and Quantitation in Living Cells\nMolecular Components of Living Systems\n\nResponsibilities included leading discussion sections, holding office hours, supporting student learning, and helping students understand fundamental biological and engineering concepts.\nDuring the transition to online instruction in 2020, I adapted laboratory teaching materials to support experimental design and data interpretation in a virtual learning environment."
+  },
+  {
+    "objectID": "teaching.html#research-mentoring",
+    "href": "teaching.html#research-mentoring",
+    "title": "Teaching & Mentoring",
+    "section": "Research Mentoring",
+    "text": "Research Mentoring\nMentoring is a central part of my academic work. I have worked with trainees at different stages of their education, providing individualized guidance in experimental design, scientific reasoning, data analysis, research communication, and career development.\n\n  \n    3\n    Ph.D. Students\n  \n  \n    6\n    Master's Students\n  \n  \n    3\n    Undergraduates\n  \n  \n    1\n    Visiting Scholar\n  \n\n\nSelected Mentoring Outcomes\n\nNIH F31 Fellowship: A Ph.D. trainee I mentored successfully obtained an NIH F31 fellowship.\nConference Presentations: Trainees have presented their research at the Biomedical Engineering Society (BMES) Annual Meeting.\nPeer-Reviewed Publication: An undergraduate researcher I mentored contributed to a peer-reviewed publication.\nCareer Development: An undergraduate trainee I supervised subsequently matriculated into medical school.\n\nMy mentoring philosophy centers on progressive independence. I encourage trainees to formulate meaningful research questions, design rigorous experiments, interpret data critically, and communicate their findings clearly. I also emphasize accessible guidance, constructive feedback, and a supportive environment that maintains high scientific standards."
+  },
+  {
+    "objectID": "teaching.html#courses-i-can-teach",
+    "href": "teaching.html#courses-i-can-teach",
+    "title": "Teaching & Mentoring",
+    "section": "Courses I Can Teach",
+    "text": "Courses I Can Teach\nI am prepared to contribute to undergraduate and graduate education across biology, bioengineering, and biomedical sciences.\n\nCore Courses\n\nCell and Molecular Biology\nGenetics\nPhysiology\nMolecular and Cellular Bioengineering\nBiomedical Imaging\nIntroduction to Biomedical Engineering\nImmunology\n\n\n\nAdvanced Courses and Proposed Electives\n\nSynthetic Biology\nProtein and Cell Engineering\nCancer Immunoengineering\nMolecular Biosensors and Live-Cell Imaging\nGenome Engineering\nProgrammable Cellular Therapeutics\nFocused Ultrasound in Biomedical Engineering\n\nI am particularly interested in developing project-based courses in which students design biological circuits, analyze experimental datasets, evaluate engineering trade-offs, and propose solutions to biomedical problems."
+  },
+  {
+    "objectID": "teaching.html#educational-goals",
+    "href": "teaching.html#educational-goals",
+    "title": "Teaching & Mentoring",
+    "section": "Educational Goals",
+    "text": "Educational Goals\nI aim to prepare students not only to understand existing biological knowledge but also to question assumptions, integrate ideas across disciplines, and develop original approaches to scientific challenges.\nUltimately, I define successful teaching by whether students can think independently, solve unfamiliar problems, and defend their reasoning with evidence."
+  },
+  {
+    "objectID": "research/glidre.html",
+    "href": "research/glidre.html",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "",
+    "text": "← All research highlights\nResearch theme: Observe — live-cell molecular imaging and DNA repair\nManuscript status: Under revision (confirm public disclosure before publishing figures)"
+  },
+  {
+    "objectID": "research/glidre.html#the-challenge",
+    "href": "research/glidre.html#the-challenge",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "The challenge",
+    "text": "The challenge\nTraditional DNA damage assays provide valuable endpoints but have difficulty tracking the damage response at a defined, non-repetitive genomic locus in the same living cell over time. GLIDRE (Genomic Locus Imaging and DSB Repair Monitoring by Elastin-like Proteins) was developed to provide locus-specific visualization combined with a dynamic repair-associated readout."
+  },
+  {
+    "objectID": "research/glidre.html#discovery-1-amplifying-signals-at-non-repetitive-genomic-loci",
+    "href": "research/glidre.html#discovery-1-amplifying-signals-at-non-repetitive-genomic-loci",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "Discovery 1 — Amplifying signals at non-repetitive genomic loci",
+    "text": "Discovery 1 — Amplifying signals at non-repetitive genomic loci\n\n\n\nFigure 1. CRISPR-guided elastin-like protein assembly provides amplified locus-labeling signals in live cells. Source: uploaded GLIDRE manuscript, Figure 1.\n\n\nApproach. Engineered dCas9–SunTag complexes recruit elastin-like protein assemblies to the genomic target. Condensate-associated signal amplification makes non-repetitive loci accessible to live-cell observation.\nKey finding. The strategy provides an optical handle for following specified genomic sites and pairing locus tracking with induced DNA damage."
+  },
+  {
+    "objectID": "research/glidre.html#discovery-2-measuring-local-dna-damage-responses-in-real-time",
+    "href": "research/glidre.html#discovery-2-measuring-local-dna-damage-responses-in-real-time",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "Discovery 2 — Measuring local DNA damage responses in real time",
+    "text": "Discovery 2 — Measuring local DNA damage responses in real time\n\n\n\nFigures 2–3. Locus-targeted damage and 53BP1 recruitment dynamics, including representative time-lapse sequences. Source: uploaded GLIDRE manuscript.\n\n\nApproach. Orthogonal AsCas12a induces DNA double-strand breaks near labeled loci, while recruitment and residence of the DNA damage response factor 53BP1 are monitored in living cells.\nKey finding. GLIDRE supports time-resolved, locus-specific assessment of repair-associated dynamics. Importantly, 53BP1 residence is a proxy for the response rather than a direct measurement of completed repair."
+  },
+  {
+    "objectID": "research/glidre.html#discovery-3-chromatin-state-influences-repair-associated-kinetics-and-therapy-response",
+    "href": "research/glidre.html#discovery-3-chromatin-state-influences-repair-associated-kinetics-and-therapy-response",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "Discovery 3 — Chromatin state influences repair-associated kinetics and therapy response",
+    "text": "Discovery 3 — Chromatin state influences repair-associated kinetics and therapy response\n\n\n\nFigure 4. Chromatin accessibility, transcription perturbation, and repair-associated residence dynamics. Source: uploaded GLIDRE manuscript.\n\n\n\n\n\nFigure 5. H3.3K27M-associated chromatin dysregulation, SAHA treatment, and CAR T-cell spheroid response. Source: uploaded GLIDRE manuscript.\n\n\nKey finding. More accessible chromatin generally exhibited shorter 53BP1 residence than compacted chromatin, with transcription contributing in a context-dependent manner. In engineered H3.3K27M U2OS models, altered locus-specific dynamics accompanied reduced CAR T-cell response; SAHA treatment shifted the observed dynamics and increased spheroid sensitivity."
+  },
+  {
+    "objectID": "research/glidre.html#live-imaging-video",
+    "href": "research/glidre.html#live-imaging-video",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "Live imaging video",
+    "text": "Live imaging video\nVideo placeholder: when your GLIDRE video is available, put a compressed .mp4 in research/videos/ and embed it here:"
+  },
+  {
+    "objectID": "research/glidre.html#why-it-matters",
+    "href": "research/glidre.html#why-it-matters",
+    "title": "GLIDRE: Watching DNA Repair at Specific Genomic Loci",
+    "section": "Why it matters",
+    "text": "Why it matters\nGLIDRE connects molecular imaging with a functional, chromatin-aware view of the DNA damage response, providing a framework for testing how local genomic context influences cellular resilience and treatment response."
+  },
+  {
+    "objectID": "research/ciscar.html",
+    "href": "research/ciscar.html",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "",
+    "text": "← All research highlights\nResearch theme: Engineer + Control — cis-activation and focused ultrasound\nPublication: Molecular Therapy Oncology (2026) · Journal article"
+  },
+  {
+    "objectID": "research/ciscar.html#the-challenge",
+    "href": "research/ciscar.html#the-challenge",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "The challenge",
+    "text": "The challenge\nTumor antigen heterogeneity and antigen escape limit durable CAR T-cell activity. CisCAR explores a different activation mechanism: engineering T cells to display the cognate antigen that activates their own CAR, then placing antigen expression under external thermal control."
+  },
+  {
+    "objectID": "research/ciscar.html#discovery-1-cars-respond-to-antigen-presented-in-cis",
+    "href": "research/ciscar.html#discovery-1-cars-respond-to-antigen-presented-in-cis",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "Discovery 1 — CARs respond to antigen presented in cis",
+    "text": "Discovery 1 — CARs respond to antigen presented in cis\n\n\n\nFigure 1. CisCAR construct design, receptor–antigen colocalization, and activation in Jurkat cells. Source: uploaded CisCAR Figure 1.\n\n\nApproach. Cells coexpressing truncated CD19 and CD19 CAR were assessed for receptor colocalization and CD69 activation.\nKey finding. Antigen presentation on the same cell promoted CAR-associated clustering and T-cell activation, supporting cis-activation as an engineered signaling mechanism."
+  },
+  {
+    "objectID": "research/ciscar.html#discovery-2-thermal-control-enables-on-demand-activation",
+    "href": "research/ciscar.html#discovery-2-thermal-control-enables-on-demand-activation",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "Discovery 2 — Thermal control enables on-demand activation",
+    "text": "Discovery 2 — Thermal control enables on-demand activation\n\n\n\nFigure 2. Heat-inducible tCD19 expression, time-lapse clustering, CD69, cytokines, and cell viability. Source: uploaded CisCAR Figure 2.\n\n\nApproach. A heat-responsive promoter drives tCD19 expression, whereas the CAR is constitutively expressed. Localized heating serves as the trigger for self-activation.\nKey finding. Induction promoted CD69 expression and inflammatory cytokine secretion in engineered T cells, while the investigated repeated-stimulation conditions did not show evidence of significant fratricide."
+  },
+  {
+    "objectID": "research/ciscar.html#discovery-3-activated-ciscar-cells-kill-antigen-negative-tumors",
+    "href": "research/ciscar.html#discovery-3-activated-ciscar-cells-kill-antigen-negative-tumors",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "Discovery 3 — Activated CisCAR cells kill antigen-negative tumors",
+    "text": "Discovery 3 — Activated CisCAR cells kill antigen-negative tumors\n\n\n\nFigure 3. Spatially limited bystander-killing concept and in vitro cytotoxicity experiments. Source: uploaded CisCAR Figure 3.\n\n\nApproach. Thermal stimulation was applied to FUS-CisCAR cocultures containing antigen-negative tumor cells.\nKey finding. Induced activation supported bystander killing of antigen-negative cells in the tested models, addressing an important dimension of tumor antigen escape."
+  },
+  {
+    "objectID": "research/ciscar.html#discovery-4-focused-ultrasound-enables-local-tumor-control-in-vivo",
+    "href": "research/ciscar.html#discovery-4-focused-ultrasound-enables-local-tumor-control-in-vivo",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "Discovery 4 — Focused ultrasound enables local tumor control in vivo",
+    "text": "Discovery 4 — Focused ultrasound enables local tumor control in vivo\n\n\n\nFigure 4. Mouse model, ultrasound treatment schedule, IVIS imaging, and tumor-response measurements. Source: uploaded CisCAR Figure 4.\n\n\nApproach. FUS was applied to selected tumor sites in a bilateral mouse model after FUS-CisCAR delivery.\nKey finding. Ultrasound-treated tumors showed improved local control compared with contralateral untreated sites in the reported experiment, supporting a strategy for spatially regulated antigen-independent cytotoxicity."
+  },
+  {
+    "objectID": "research/ciscar.html#why-it-matters",
+    "href": "research/ciscar.html#why-it-matters",
+    "title": "CisCAR: Ultrasound-Controlled T-Cell Self-Activation",
+    "section": "Why it matters",
+    "text": "Why it matters\nCisCAR links an unconventional engineered immune-cell activation mechanism to a noninvasive external trigger, offering a way to confine therapeutic activity to selected tissue regions even when tumor cells lack the canonical target antigen."
+  },
+  {
+    "objectID": "pub-listing.html",
+    "href": "pub-listing.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "pub-listing.html#selected-work",
+    "href": "pub-listing.html#selected-work",
     "title": "Publications",
     "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
+    "href": "pub-listing.html#peer-reviewed-journal-papers",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Papers",
+    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Linshan Zhu, Ph.D.\nPublications – Linshan Zhu, Ph.D.\nPublications – Linshan Zhu, Ph.D.\nLinshan Zhu, Ph.D.\nResearch in synthetic biology, cell engineering, and programmable cellular therapies.\nResearch in synthetic biology, cell engineering, and programmable cellular therapies.\nResearch in synthetic biology, cell engineering, and programmable cellular therapies."
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -54,69 +173,6 @@
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Links",
     "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions.\n\n\n\nResearcher, Univerisity\nConsultant, Company\nIntern, Institute\n\n\n\n\n\nPhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity\nConsultant, Company\nIntern, Institute"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
@@ -140,31 +196,192 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pub-listing.html",
-    "href": "pub-listing.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Linshan Zhu, Ph.D.\nAlfred E. Mann Department of Biomedical Engineering\nUniversity of Southern California\nAddress: 1002 Childs Way, MCB 150, Los Angeles, CA 90089\nPhone: 213-783-9487\nE-mail: linshanz@usc.edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linshan Zhu, Ph.D.",
+    "section": "",
+    "text": "Postdoctoral Researcher | University of Southern California\nI develop technologies that integrate synthetic biology, protein and cell engineering, quantitative imaging, and focused ultrasound to advance programmable cellular therapies.\nMy long-term goal is to create engineered biological systems that can be precisely measured, dynamically regulated, and externally controlled.\n\n  E-mail \n  LinkedIn \n  ORCID \n  Google Scholar \n  CV \n\n\n\n\n\n\n\n\n\n\n\n\nLive-Cell Imaging & Biosensors\nDevelop molecular imaging technologies to investigate cell signaling, chromatin dynamics, and DNA repair in living cells.\n\n\n\n\nSynthetic Biology & Immunoengineering\nDesign programmable signaling circuits that enable therapeutic cells to overcome tumor-associated suppression.\n\n\n\n\nFocused Ultrasound & Cellular Therapies\nEngineer ultrasound-responsive biological systems for noninvasive spatiotemporal control of therapeutic cell functions.\n\nExplore all my major projects.View Research Projects →\n\n\n\n\n\nZhu L., Cui J., Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al. Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells. Molecular Therapy Oncology. 2026. link\nZhu L., Man C.W., Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L., Wang Y. Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy. ACS Nano. 2024. link\nZhu L., Wu Y., Yoon C.W., Wang Y. Mechanogenetics for cellular engineering and cancer immunotherapy. Current Opinion in Biotechnology. 2020. link\nZamat A., Zhu L., Wang Y. Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics. Advanced Functional Materials. 2019. link\n\nExplore all my publications in cellular engineering, molecular imaging, and programmable immunotherapies.\nView Publications →\n\n\n\n2023-present: Postdoctoral Researcher, University of Southern California\n2017-2022: Ph.D. in Bioengineering, University of California, San Diego\n2012-2016: Bachelor in Biotechnology, University of Science and Technology of China"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "Linshan Zhu, Ph.D.",
+    "section": "",
+    "text": "Live-Cell Imaging & Biosensors\nDevelop molecular imaging technologies to investigate cell signaling, chromatin dynamics, and DNA repair in living cells.\n\n\n\n\nSynthetic Biology & Immunoengineering\nDesign programmable signaling circuits that enable therapeutic cells to overcome tumor-associated suppression.\n\n\n\n\nFocused Ultrasound & Cellular Therapies\nEngineer ultrasound-responsive biological systems for noninvasive spatiotemporal control of therapeutic cell functions.\n\nExplore all my major projects.View Research Projects →"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Linshan Zhu, Ph.D.",
+    "section": "",
+    "text": "Zhu L., Cui J., Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al. Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells. Molecular Therapy Oncology. 2026. link\nZhu L., Man C.W., Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L., Wang Y. Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy. ACS Nano. 2024. link\nZhu L., Wu Y., Yoon C.W., Wang Y. Mechanogenetics for cellular engineering and cancer immunotherapy. Current Opinion in Biotechnology. 2020. link\nZamat A., Zhu L., Wang Y. Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics. Advanced Functional Materials. 2019. link\n\nExplore all my publications in cellular engineering, molecular imaging, and programmable immunotherapies.\nView Publications →"
+  },
+  {
+    "objectID": "index.html#academic-background",
+    "href": "index.html#academic-background",
+    "title": "Linshan Zhu, Ph.D.",
+    "section": "",
+    "text": "2023-present: Postdoctoral Researcher, University of Southern California\n2017-2022: Ph.D. in Bioengineering, University of California, San Diego\n2012-2016: Bachelor in Biotechnology, University of Science and Technology of China"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News & Events",
+    "section": "",
+    "text": "Recent research publications and selected academic updates. For the full bibliography, see Publications."
+  },
+  {
+    "objectID": "posts.html#section",
+    "href": "posts.html#section",
+    "title": "News & Events",
+    "section": "2026",
+    "text": "2026\n\n\n2026\n\n\nCisCAR research published in Molecular Therapy Oncology\nOur study introduces focused-ultrasound-controllable CisCAR T cells that express their own target antigen to trigger self-activation and local bystander killing, including against antigen-negative tumor cells.\nRead the paper ↗\n\n\n\n\n2026\n\n\nUltrasound-primed CAR T-cell therapy reported in Science Advances\nOur collaborative work explores a tumor-hallmark-gated, ultrasound-primed approach to guide CAR T-cell activity in solid tumors.\nRead the paper ↗"
+  },
+  {
+    "objectID": "posts.html#section-1",
+    "href": "posts.html#section-1",
+    "title": "News & Events",
+    "section": "2025",
+    "text": "2025\n\n\n2025\n\n\nEchoBack-CAR T-cell study published in Cell\nOur collaborative study reports a sonogenetic platform for engineering externally controllable CAR T cells.\nRead the paper ↗\n\n\n\n\n2025\n\n\nUltrasound mechanogenetics for CAR T-cell therapy reported in Nature Materials\nOur collaborative research investigates ultrasound-based tumor priming as an approach to improve CAR T-cell treatment.\nRead the paper ↗"
+  },
+  {
+    "objectID": "posts.html#section-2",
+    "href": "posts.html#section-2",
+    "title": "News & Events",
+    "section": "2024",
+    "text": "2024\n\n\n2024\n\n\nPDbody study published in ACS Nano\nWe engineered a PD-L1-targeting monobody through directed evolution and incorporated it into a SynNotch-gated cellular therapy system.\nRead the paper ↗"
+  },
+  {
+    "objectID": "posts.html#conferences-presentations",
+    "href": "posts.html#conferences-presentations",
+    "title": "News & Events",
+    "section": "Conferences & Presentations",
+    "text": "Conferences & Presentations\nConference announcements, invited talks, and poster presentations will be added as their dates and details are confirmed."
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Highlights",
+    "section": "",
+    "text": "My research integrates quantitative imaging, molecular engineering, and external control to understand cellular processes and develop programmable therapies. Explore four major research stories below.\n\n\nGLIDRE: Live-cell imaging of locus-specific DNA repair\n\nA CRISPR–ELP platform enables time-resolved imaging of genomic loci and DNA repair-associated responses, revealing chromatin-state-dependent dynamics.\n\nRead the research story →\n\n\n\nPDbody: Engineering selective molecular recognition\nDirected evolution produces a PD-L1-binding monobody with enhanced recognition at lower pH, subsequently combined with a SynNotch-gated cellular therapy.\n\nRead the research story →\n\n\nEchoRewire: Converting suppression into activation\nModular receptors convert inhibitory TGF-β signaling into stimulatory pathways, while focused ultrasound and feedback enable durable local CAR activity.\n\nRead the research story →\n\n\nCisCAR: Ultrasound-controlled T-cell self-activation\nCAR T cells express their cognate antigen in response to local thermal stimulation, enabling antigen-independent bystander cytotoxicity.\n\nRead the research story →"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
+    "text": "*Equal contribution; #Corresponding author.*"
   },
   {
-    "objectID": "pub-listing.html#selected-work",
-    "href": "pub-listing.html#selected-work",
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\nZhu L.*, Cui J.*, Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al. Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells. Molecular Therapy Oncology. 2026.\nYoon C.W., Zhu L., Dong X., Yuan Z., Qu Y., He P., Liu L., Wang Y. Sonogenetics for Precision Medicine: A Focus on Immunoengineering and Genome Engineering. IEEE Reviews in Biomedical Engineering. 2026.\nGuo T., Zhu Z., Qu Y., Yu X., Zhu L., Wang Yu., Liu K., Cui J., Dong X., Yoon C.W., Kilic C., He P., Gou S., Zeng Y., Datta P., Zhou Q., Xu H., Puri I., Liu L., Shen K., Wang Y. Ultrasound Priming Gated by Solid Tumor Hallmarks to Guide CAR-T Therapy. Science Advances. 2026.\nQu Y.*, Wang Y., Zhu L., Ma F., Yoon C., Chen X., Zhang J., Bishop C., Tang M., Cui J., Guo T., Ho P., Kast M., Xu H., Zhou Q., Engler A., Wang N., Liu L., Chien S., Wang Y. Identifying and reprogramming softness-driven cancer stem-like cells overcomes CAR-T cell resistance in solid tumours. Nature Biomedical Engineering. 2026.\nYoon C.W.#, Song C., Nguyen D.N.M., Yu X., Zhu L., Ho P., Huang Z., Lu G., Wang Y., Wei F., Qu Y., Zamat A., Lewis A., Chen R., Zeng Y., Datta P., Lee N.S., Jamieson C., Yu B., Shung K., Zhou Q., Liu L.#, Wang Y.#. Tumour priming by ultrasound mechanogenetics for CAR T therapy. Nature Materials. 2025 (online).\nLimsakul P., Srifa P., Huang Z., Zhu L., Wu Y., Charupanit K. Immunomodulatory Effects of Curcumin on CAR T-Cell Therapy. Antioxidants (Basel). 2025.\nLiu L., He P., Wang Y., Ma F., Li D., Bai Z., Qu Y., Zhu L., Yoon C.W., Yu X., Huang Y., Liang Z., Zhang Y., Liu K., Guo T., Zeng Y., Zhou Q., Chung H.K., Fan R., Wang Y. Engineering sonogenetic EchoBack-CAR T cells. Cell. 2025.\nZhu L.*, Man C.W.*, Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L.#, Wang Y.# Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy. ACS Nano. 2024.\nWu Y., Huang Z., Liu Y., He P., Wang Y., Yan L., Wang X., Gao S., Zhou X., Yoon C.W., Sun K., Situ Y., Ho P., Zeng Y., Yuan Z., Zhu L., Zhou Q., Zhao Y., Liu T., Kwong G., Chien S., Liu L., Wang Y. Ultrasound Control of Genomic Regulatory Toolboxes for Cancer Immunotherapy. Nature Communications. 2024.\nPeng Q., Huang Z., Sun K., Liu Y., Yoon C.W., Harrison R., Schmitt D., Zhu L., Wu Y., Tasan I., Zhao H., Zhang J., Zhong S., Chien S., Wang Y. Engineering inducible biomolecular assemblies for genome imaging and manipulation in living cells. Nature Communications. 2022.\nWu Y., Huang Z., Harrison R., Liu L., Zhu L., Situ Y., Wang Y. Engineering CAR T cells for enhanced efficacy and safety. APL Bioengineering. 2022.\nWu Y., Liu Y., Huang Z., Wang X., Jin Z., Li J., Limsakul P., Zhu L., Allen M., Pan Y., Bussell R., Jacobson A., Liu T., Chien S., Wang Y. Control of the activity of CAR-T cells within tumours via focused ultrasound. Nature Biomedical Engineering. 2021.\nZhu L., Wu Y., Yoon C.W., Wang Y. Mechanogenetics for cellular engineering and cancer immunotherapy. Current Opinion in Biotechnology. 2020.\nZamat A.*, Zhu L.*, Wang Y. Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics. Advanced Functional Materials. 2020.\nPan Y., Yoon S., Zhu L., Wang Y. Acoustic mechanogenetics. Current Opinion in Biomedical Engineering. 2018."
   },
   {
-    "objectID": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "href": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Other Peer-reviewed Journal Papers",
-    "text": "Other Peer-reviewed Journal Papers\n\n\n\nLong-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong Dec 20, 2021\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMQ=='); return false;\"&gt;2021&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('ZW5lcmd5LW5leHVz'); return false;\"&gt;energy-nexus&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2F0ZXI='); return false;\"&gt;water&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\n\n\n PDF  GitHub  Supplemental  \n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "objectID": "research/echorewire.html",
+    "href": "research/echorewire.html",
+    "title": "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy",
+    "section": "",
+    "text": "← All research highlights\nResearch theme: Engineer + Control — synthetic signaling and ultrasound\nManuscript status: Confirm current submission/public-disclosure status before publishing"
   },
   {
-    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "objectID": "research/echorewire.html#the-challenge",
+    "href": "research/echorewire.html#the-challenge",
+    "title": "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy",
+    "section": "The challenge",
+    "text": "The challenge\nThe solid tumor microenvironment can suppress T-cell responses through factors such as TGF-β. Meanwhile, externally induced CAR expression can be transient. EchoRewire was developed to combine localized initiation with a microenvironment-driven mechanism for sustaining therapeutic activity."
+  },
+  {
+    "objectID": "research/echorewire.html#discovery-1-redirecting-tgf-β-into-stimulatory-signals",
+    "href": "research/echorewire.html#discovery-1-redirecting-tgf-β-into-stimulatory-signals",
+    "title": "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy",
+    "section": "Discovery 1 — Redirecting TGF-β into stimulatory signals",
+    "text": "Discovery 1 — Redirecting TGF-β into stimulatory signals\n\n\n\nFigure 1. Engineered TGF-β receptor rewirers and downstream NFκB signaling. Source: uploaded EchoRewire manuscript.\n\n\nApproach. Chimeric receptors couple TGF-β-binding ectodomains to interleukin receptor signaling modules. The TG18 design redirects TGF-β stimulation toward the IL-18–MyD88–NFκB pathway.\nKey finding. TG18 converts an inhibitory extracellular cue into pro-activation signaling, altering inflammatory and effector-associated responses in engineered T cells."
+  },
+  {
+    "objectID": "research/echorewire.html#discovery-2-building-modular-signaling-options",
+    "href": "research/echorewire.html#discovery-2-building-modular-signaling-options",
+    "title": "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy",
+    "section": "Discovery 2 — Building modular signaling options",
+    "text": "Discovery 2 — Building modular signaling options\n\n\n\nFigure 2. Modular rewirer architectures and STAT pathway activity. Source: uploaded EchoRewire manuscript.\n\n\nApproach. Rewirers with different intracellular domains were constructed to couple TGF-β input to alternative outputs, including STAT3 and STAT5 signaling.\nKey finding. Signaling conversion can be programmed through receptor architecture rather than relying on a single output pathway."
+  },
+  {
+    "objectID": "research/echorewire.html#discovery-3-integrating-focused-ultrasound-and-feedback",
+    "href": "research/echorewire.html#discovery-3-integrating-focused-ultrasound-and-feedback",
+    "title": "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy",
+    "section": "Discovery 3 — Integrating focused ultrasound and feedback",
+    "text": "Discovery 3 — Integrating focused ultrasound and feedback\n\n\n\nFigure 3. Focused ultrasound initiation, rewirer-driven feedback, and antitumor activity. Source: uploaded EchoRewire manuscript.\n\n\n\n\n\nFigure 4. Additional in vivo tumor response characterization. Source: uploaded EchoRewire manuscript.\n\n\nApproach. FUS initiates localized CAR expression; rewirer-mediated TGF-β signaling then supports sustained activation through a positive feedback design.\nKey finding. The integrated system demonstrated enhanced and more durable antitumor responses across the preclinical solid-tumor models tested."
+  },
+  {
+    "objectID": "research/echorewire.html#why-it-matters",
+    "href": "research/echorewire.html#why-it-matters",
+    "title": "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy",
+    "section": "Why it matters",
+    "text": "Why it matters\nEchoRewire treats the immunosuppressive tumor environment not only as a barrier but as a programmable input for therapeutic cells, while preserving a spatially targeted ultrasound initiation step."
+  },
+  {
+    "objectID": "research/pdbody.html",
+    "href": "research/pdbody.html",
+    "title": "PDbody: Engineering Tumor-Selective Molecular Recognition",
+    "section": "",
+    "text": "← All research highlights\nResearch theme: Engineer — molecular recognition and conditional cell therapy\nPublication: ACS Nano (2024) · Journal article"
+  },
+  {
+    "objectID": "research/pdbody.html#the-challenge",
+    "href": "research/pdbody.html#the-challenge",
+    "title": "PDbody: Engineering Tumor-Selective Molecular Recognition",
+    "section": "The challenge",
+    "text": "The challenge\nPD-L1 is abundant in many tumors but also appears on healthy cells, creating risks for therapies that recognize PD-L1 indiscriminately. We asked whether a human-derived monobody scaffold could be engineered for preferential recognition under tumor-like acidic conditions and paired with an additional antigen-dependent safety gate."
+  },
+  {
+    "objectID": "research/pdbody.html#discovery-1-developing-a-pd-l1-binding-scaffold",
+    "href": "research/pdbody.html#discovery-1-developing-a-pd-l1-binding-scaffold",
+    "title": "PDbody: Engineering Tumor-Selective Molecular Recognition",
+    "section": "Discovery 1 — Developing a PD-L1-binding scaffold",
+    "text": "Discovery 1 — Developing a PD-L1-binding scaffold\n\n\n\nFigure 1. Monobody scaffold, binding assays, and dependence on experimental pH conditions. Source: uploaded PDbody manuscript.\n\n\nApproach. A human fibronectin type III-derived monobody scaffold was evaluated for PD-L1 recognition, including its pH-dependent binding behavior.\nKey finding. Monobody–PD-L1 interaction was sensitive to assay conditions, motivating protein engineering aimed at binding under mildly acidic tumor-relevant conditions."
+  },
+  {
+    "objectID": "research/pdbody.html#discovery-2-directed-evolution-improves-recognition",
+    "href": "research/pdbody.html#discovery-2-directed-evolution-improves-recognition",
+    "title": "PDbody: Engineering Tumor-Selective Molecular Recognition",
+    "section": "Discovery 2 — Directed evolution improves recognition",
+    "text": "Discovery 2 — Directed evolution improves recognition\n\n\n\nFigure 2. Rational loop modification, library construction, and screening for improved PD-L1 recognition. Source: uploaded PDbody manuscript.\n\n\nApproach. Rational design was combined with yeast display and successive directed-evolution libraries targeting monobody binding loops.\nKey finding. The evolved PDbody provided a PD-L1-recognizing module suitable for integration into an engineered receptor system, with preferential binding under the lower-pH conditions evaluated."
+  },
+  {
+    "objectID": "research/pdbody.html#discovery-3-building-a-gated-cellular-therapy",
+    "href": "research/pdbody.html#discovery-3-building-a-gated-cellular-therapy",
+    "title": "PDbody: Engineering Tumor-Selective Molecular Recognition",
+    "section": "Discovery 3 — Building a gated cellular therapy",
+    "text": "Discovery 3 — Building a gated cellular therapy\n\n\n\nFigures 3–4. PDbody CAR testing and CD19-SynNotch-regulated PDbody CAR circuit. Source: uploaded PDbody manuscript.\n\n\n\n\n\nFigure 5. Tumor control experiments in vivo. Source: uploaded PDbody manuscript.\n\n\nApproach. A CD19-recognizing SynNotch circuit was used to induce PDbody-based CAR expression, requiring a priming antigen before PD-L1-directed effector activity.\nKey finding. The engineered T cells achieved conditional recognition and antitumor activity in the investigated breast-cancer models, supporting combinatorial strategies to improve spatial specificity."
+  },
+  {
+    "objectID": "research/pdbody.html#why-it-matters",
+    "href": "research/pdbody.html#why-it-matters",
+    "title": "PDbody: Engineering Tumor-Selective Molecular Recognition",
+    "section": "Why it matters",
+    "text": "Why it matters\nPDbody illustrates a design-build-test approach spanning protein engineering, receptor design, and cellular therapy, with multiple layers of conditional recognition."
   }
 ]

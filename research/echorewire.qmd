@@ -1,0 +1,45 @@
+---
+title: "EchoRewire: Reprogramming Suppressive Signals for CAR T-Cell Therapy"
+description: "Modular TGF-β rewirers integrated with ultrasound-controlled CAR T-cell circuits."
+title-block-banner: false
+toc: true
+---
+
+[← All research highlights](../projects.qmd)
+
+**Research theme:** Engineer + Control — synthetic signaling and ultrasound  
+**Manuscript status:** Confirm current submission/public-disclosure status before publishing
+
+## The challenge
+
+The solid tumor microenvironment can suppress T-cell responses through factors such as TGF-β. Meanwhile, externally induced CAR expression can be transient. EchoRewire was developed to combine localized initiation with a microenvironment-driven mechanism for sustaining therapeutic activity.
+
+## Discovery 1 — Redirecting TGF-β into stimulatory signals
+
+![Figure 1. Engineered TGF-β receptor rewirers and downstream NFκB signaling. Source: uploaded EchoRewire manuscript.](images/echorewire/image1.png){.research-figure}
+
+**Approach.** Chimeric receptors couple TGF-β-binding ectodomains to interleukin receptor signaling modules. The TG18 design redirects TGF-β stimulation toward the IL-18–MyD88–NFκB pathway.
+
+**Key finding.** TG18 converts an inhibitory extracellular cue into pro-activation signaling, altering inflammatory and effector-associated responses in engineered T cells.
+
+## Discovery 2 — Building modular signaling options
+
+![Figure 2. Modular rewirer architectures and STAT pathway activity. Source: uploaded EchoRewire manuscript.](images/echorewire/image2.png){.research-figure}
+
+**Approach.** Rewirers with different intracellular domains were constructed to couple TGF-β input to alternative outputs, including STAT3 and STAT5 signaling.
+
+**Key finding.** Signaling conversion can be programmed through receptor architecture rather than relying on a single output pathway.
+
+## Discovery 3 — Integrating focused ultrasound and feedback
+
+![Figure 3. Focused ultrasound initiation, rewirer-driven feedback, and antitumor activity. Source: uploaded EchoRewire manuscript.](images/echorewire/image3.png){.research-figure}
+
+![Figure 4. Additional in vivo tumor response characterization. Source: uploaded EchoRewire manuscript.](images/echorewire/image4.png){.research-figure}
+
+**Approach.** FUS initiates localized CAR expression; rewirer-mediated TGF-β signaling then supports sustained activation through a positive feedback design.
+
+**Key finding.** The integrated system demonstrated enhanced and more durable antitumor responses across the preclinical solid-tumor models tested.
+
+## Why it matters
+
+EchoRewire treats the immunosuppressive tumor environment not only as a barrier but as a programmable input for therapeutic cells, while preserving a spatially targeted ultrasound initiation step.

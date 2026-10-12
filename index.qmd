@@ -1,100 +1,123 @@
+
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+page-title: false
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
-:::{#hero-heading}
+::: {.homepage-container}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+:::: {.columns .hero-section}
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+::: {.column width="28%"}
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
-
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
-
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
-
-## Education
-
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+![](files/images/profile.jpg){.profile-photo fig-alt="Portrait of Linshan Zhu"}
 
 :::
 
+::: {.column width="72%"}
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+# Linshan Zhu, Ph.D.
 
-:::{#recent-posts}
+### Engineering Programmable Cellular Therapies
+
+**Postdoctoral Researcher | University of Southern California**
+
+I develop technologies that integrate synthetic biology, protein and cell engineering, quantitative imaging, and focused ultrasound to advance programmable cellular therapies.
+
+My long-term goal is to create engineered biological systems that can be precisely measured, dynamically regulated, and externally controlled.
+
+
+<div class="profile-links">
+  <a href="mailto:linshanz@usc.edu">
+    <i class="bi bi-envelope"></i> E-mail
+  </a>
+
+  <a href="https://www.linkedin.com/in/linshan-zhu-68632712a"
+     target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+
+  <a href="https://orcid.org/0000-0003-3849-3237"
+     target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid"></i> ORCID
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=sU-I7jgAAAAJ&hl=en"
+     target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar"></i> Google Scholar
+  </a>
+
+<a href="files/CV_Linshan%20Zhu.pdf"
+   target="_blank" rel="noopener noreferrer">
+  <i class="bi bi-file-earmark-person"></i> CV
+</a>
+</div>
+
+
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+::::
+
+## Research Overview
+
+![](files/images/research-overview.png){.research-overview fig-alt="Overview of research in molecular imaging, synthetic biology, and focused ultrasound"}
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+### 01. Observe
+
+**Live-Cell Imaging & Biosensors**
+
+Develop molecular imaging technologies to investigate cell signaling, chromatin dynamics, and DNA repair in living cells.
+
+:::
+
+::: {.column width="33%"}
+
+### 02. Engineer
+
+**Synthetic Biology & Immunoengineering**
+
+Design programmable signaling circuits that enable therapeutic cells to overcome tumor-associated suppression.
+
+:::
+
+::: {.column width="33%"}
+
+### 03. Control
+
+**Focused Ultrasound & Cellular Therapies**
+
+Engineer ultrasound-responsive biological systems for noninvasive spatiotemporal control of therapeutic cell functions.
+
+:::
+Explore all my major projects.
+
+[View Research Projects →](projects.qmd)
+
+::::
+
+## Selected Publications
+1. **Zhu L.**, Cui J., Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al. Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells. Molecular Therapy Oncology. 2026. [link](https://www.cell.com/molecular-therapy-family/oncology/fulltext/S2950-3299(26)00199-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2950329926001992%3Fshowall%3Dtrue)
+2. **Zhu L.**, Man C.W., Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L., Wang Y. Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy. ACS Nano. 2024. [link](https://pubs.acs.org/ancac3/article/18/11/8531/150501/Engineering-a-Programmed-Death-Ligand-1-Targeting)
+3. **Zhu L.**, Wu Y., Yoon C.W., Wang Y. Mechanogenetics for cellular engineering and cancer immunotherapy. Current Opinion in Biotechnology. 2020. [link](https://www.sciencedirect.com/science/article/pii/S0958166920300811?via%3Dihub)
+4. Zamat A., **Zhu L.**, Wang Y. Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics. Advanced Functional Materials. 2019. [link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.201904345)
+
+Explore all my publications in cellular engineering, molecular imaging, and programmable immunotherapies.
+
+
+[View Publications →](publications.qmd)
+
+## Academic Background
+
+2023-present:    **Postdoctoral Researcher**, University of Southern California
+
+2017-2022:       **Ph.D. in Bioengineering**, University of California, San Diego
+
+2012-2016:       **Bachelor in Biotechnology**, University of Science and Technology of China
+
+:::

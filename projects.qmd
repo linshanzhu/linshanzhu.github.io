@@ -1,35 +1,53 @@
 ---
-title: "Projects"
-subtitle: "Funded projects"
-page-layout: full
-listing: 
-- id: projects
-  sort: "started desc"
-  type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
-  grid-item-align: left
-  grid-columns: 3
-  image-height: 30px
-  field-display-names: 
-      title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-#    - projects/ 
-    - projects.yml 
+title: "Research Highlights"
+title-block-banner: false
+toc: false
 ---
 
+My research integrates quantitative imaging, molecular engineering, and external control to understand cellular processes and develop programmable therapies. Explore four major research stories below.
 
-:::{#projects}
+::: {.research-grid}
+
+### [GLIDRE: Live-cell imaging of locus-specific DNA repair](research/glidre.qmd)
+::: {.research-card}
+
+A CRISPR–ELP platform enables time-resolved imaging of genomic loci and DNA repair-associated responses, revealing chromatin-state-dependent dynamics.
+
+[![](research/images/glidre/image3.png){fig-alt="GLIDRE DNA repair imaging schematic and time-lapse"}](research/glidre.qmd)
+
+[Read the research story →](research/glidre.qmd)
 :::
 
+::: {.research-card}
 
-<!--Include social share buttons-->
+### [PDbody: Engineering selective molecular recognition](research/pdbody.qmd)
 
-{{< include /files/includes/_socialshare.qmd >}}
+Directed evolution produces a PD-L1-binding monobody with enhanced recognition at lower pH, subsequently combined with a SynNotch-gated cellular therapy.
+
+[![](research/images/pdbody/image2.png){fig-alt="Directed evolution of the PDbody monobody"}](research/pdbody.qmd)
+
+[Read the research story →](research/pdbody.qmd)
+:::
+
+::: {.research-card}
+
+### [EchoRewire: Converting suppression into activation](research/echorewire.qmd)
+
+Modular receptors convert inhibitory TGF-β signaling into stimulatory pathways, while focused ultrasound and feedback enable durable local CAR activity.
+
+[![](research/images/echorewire/image3.png){fig-alt="EchoRewire CAR-T ultrasound feedback concept and results"}](research/echorewire.qmd)
+
+[Read the research story →](research/echorewire.qmd)
+:::
+
+::: {.research-card}
+### [CisCAR: Ultrasound-controlled T-cell self-activation](research/ciscar.qmd)
+
+CAR T cells express their cognate antigen in response to local thermal stimulation, enabling antigen-independent bystander cytotoxicity.
+
+[![](research/images/ciscar/figure3.png){fig-alt="FUS-CisCAR bystander tumor killing schematic and results"}](research/ciscar.qmd)
+
+[Read the research story →](research/ciscar.qmd)
+:::
+
+:::

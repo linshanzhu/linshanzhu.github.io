@@ -1,34 +1,41 @@
+
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
+description-meta: "Peer-reviewed publications by Linshan Zhu in synthetic biology, molecular imaging, cellular immunotherapy, and focused ultrasound."
 title-block-banner: false
-css: custom.css
+toc: false
 ---
 
+\*Equal contribution; #Corresponding author.*
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+## Peer-Reviewed Publications
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+1. **Zhu L.\***, Cui J.\*, Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al. [Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells](https://doi.org/10.1016/j.omton.2026.201323). *Molecular Therapy Oncology*. **2026**.
 
-Total citations as of January 2025:
+2. Yoon C.W., **Zhu L.**, Dong X., Yuan Z., Qu Y., He P., Liu L., Wang Y. Sonogenetics for Precision Medicine: A Focus on Immunoengineering and Genome Engineering. *IEEE Reviews in Biomedical Engineering*. **2026**.
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+3. Guo T., Zhu Z., Qu Y., Yu X., **Zhu L.**, Wang Yu., Liu K., Cui J., Dong X., Yoon C.W., Kilic C., He P., Gou S., Zeng Y., Datta P., Zhou Q., Xu H., Puri I., Liu L., Shen K., Wang Y. [Ultrasound Priming Gated by Solid Tumor Hallmarks to Guide CAR-T Therapy](https://doi.org/10.1126/sciadv.aed0666). *Science Advances*. **2026**.
 
-## Selected Work
+4. Qu Y.\*, Wang Y., **Zhu L.**, Ma F., Yoon C., Chen X., Zhang J., Bishop C., Tang M., Cui J., Guo T., Ho P., Kast M., Xu H., Zhou Q., Engler A., Wang N., Liu L., Chien S., Wang Y. [Identifying and reprogramming softness-driven cancer stem-like cells overcomes CAR-T cell resistance in solid tumours](https://doi.org/10.1038/s41551-026-01722-7). *Nature Biomedical Engineering*. **2026**.
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+5. Yoon C.W.#, Song C., Nguyen D.N.M., Yu X., **Zhu L.**, Ho P., Huang Z., Lu G., Wang Y., Wei F., Qu Y., Zamat A., Lewis A., Chen R., Zeng Y., Datta P., Lee N.S., Jamieson C., Yu B., Shung K., Zhou Q., Liu L.#, Wang Y.#. [Tumour priming by ultrasound mechanogenetics for CAR T therapy](https://doi.org/10.1038/s41563-025-02391-8). *Nature Materials*. **2025** (online).
 
+6. Limsakul P., Srifa P., Huang Z., **Zhu L.**, Wu Y., Charupanit K. Immunomodulatory Effects of Curcumin on CAR T-Cell Therapy. *Antioxidants (Basel)*. **2025**.
 
-<center><hr style="width:50%"></center>
+7. Liu L., He P., Wang Y., Ma F., Li D., Bai Z., Qu Y., **Zhu L.**, Yoon C.W., Yu X., Huang Y., Liang Z., Zhang Y., Liu K., Guo T., Zeng Y., Zhou Q., Chung H.K., Fan R., Wang Y. [Engineering sonogenetic EchoBack-CAR T cells](https://doi.org/10.1016/j.cell.2025.02.035). *Cell*. **2025**.
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+8. **Zhu L.\***, Man C.W.\*, Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L.#, Wang Y.# [Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy](https://doi.org/10.1021/acsnano.4c01597). *ACS Nano*. **2024**.
 
+9. Wu Y., Huang Z., Liu Y., He P., Wang Y., Yan L., Wang X., Gao S., Zhou X., Yoon C.W., Sun K., Situ Y., Ho P., Zeng Y., Yuan Z., **Zhu L.**, Zhou Q., Zhao Y., Liu T., Kwong G., Chien S., Liu L., Wang Y. [Ultrasound Control of Genomic Regulatory Toolboxes for Cancer Immunotherapy](https://doi.org/10.1038/s41467-024-54477-7). *Nature Communications*. **2024**.
 
+10. Peng Q., Huang Z., Sun K., Liu Y., Yoon C.W., Harrison R., Schmitt D., **Zhu L.**, Wu Y., Tasan I., Zhao H., Zhang J., Zhong S., Chien S., Wang Y. Engineering inducible biomolecular assemblies for genome imaging and manipulation in living cells. *Nature Communications*. **2022**.
 
-<!--Include social share buttons-->
+11. Wu Y., Huang Z., Harrison R., Liu L., **Zhu L.**, Situ Y., Wang Y. Engineering CAR T cells for enhanced efficacy and safety. *APL Bioengineering*. **2022**.
 
-{{< include /files/includes/_socialshare.qmd >}}
+12. Wu Y., Liu Y., Huang Z., Wang X., Jin Z., Li J., Limsakul P., **Zhu L.**, Allen M., Pan Y., Bussell R., Jacobson A., Liu T., Chien S., Wang Y. Control of the activity of CAR-T cells within tumours via focused ultrasound. *Nature Biomedical Engineering*. **2021**.
+
+13. **Zhu L.**, Wu Y., Yoon C.W., Wang Y. [Mechanogenetics for cellular engineering and cancer immunotherapy](https://doi.org/10.1016/j.copbio.2020.06.008). *Current Opinion in Biotechnology*. **2020**.
+
+14. Zamat A.\*, **Zhu L.\***, Wang Y. [Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics](https://doi.org/10.1002/adfm.201904345). *Advanced Functional Materials*. **2020**.
+
+15. Pan Y., Yoon S., **Zhu L.**, Wang Y. Acoustic mechanogenetics. *Current Opinion in Biomedical Engineering*. **2018**.

@@ -1,1 +1,269 @@
-/* css styles */
+
+/* ===== Personal academic website ===== */
+
+:root {
+  --primary: #17365D;
+  --accent: #2878B5;
+  --body-text: #334155;
+}
+
+/* Typography */
+body {
+  font-family: "Arial", sans-serif;
+  color: var(--body-text);
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  font-size: 1.7rem;
+  margin-top: 2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #E5EAF0;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+/* Navigation bar */
+.navbar {
+  border-bottom: 1px solid #E5EAF0;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+/* Portrait */
+.about-image {
+  border-radius: 12px;
+}
+
+/* Mobile display */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+/* Homepage content width */
+.homepage-container {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 35px 30px 70px;
+}
+
+/* Intro section */
+.hero-section {
+  align-items: center;
+  margin-bottom: 55px;
+}
+
+.hero-section h1 {
+  font-size: 2.6rem;
+  color: #17365D;
+  margin-bottom: 15px;
+}
+
+.hero-section h3 {
+  font-size: 1.5rem;
+  border: none;
+  margin-top: 0;
+}
+
+/* Profile image */
+.profile-photo {
+  width: 100%;
+  max-width: 245px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+/* Research overview */
+.research-overview {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 25px auto 35px;
+}
+
+/* Research section headings */
+.homepage-container h2 {
+  margin-top: 50px;
+  margin-bottom: 22px;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .homepage-container {
+    padding: 20px 15px 45px;
+  }
+
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+
+  .profile-photo {
+    max-width: 190px;
+  }
+}
+
+/* Display professional links horizontally */
+.profile-links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.profile-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  padding: 7px 12px;
+  border: 1px solid #CBD5E1;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/* Research mentoring statistics */
+
+.mentoring-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  margin: 25px 0;
+}
+
+.mentoring-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #F3F6FA;
+  border-radius: 12px;
+  padding: 24px 12px;
+  text-align: center;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #17365D;
+  line-height: 1.2;
+}
+
+.stat-label {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: #475569;
+}
+
+/* Responsive display */
+@media (max-width: 768px) {
+  .mentoring-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .stat-number {
+    font-size: 2rem;
+  }
+}
+
+/* =================================
+   Teaching page: Mentoring statistics
+   ================================= */
+
+.mentoring-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  margin: 28px 0 32px;
+}
+
+.mentoring-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 130px;
+  background: #F3F6FA;
+  border: 1px solid #E5EAF0;
+  border-radius: 12px;
+  padding: 20px 10px;
+  text-align: center;
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.mentoring-stat:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(23, 54, 93, 0.08);
+}
+
+.stat-number {
+  display: block;
+  font-size: 2.7rem;
+  font-weight: 700;
+  color: #17365D;
+  line-height: 1.2;
+}
+
+.stat-label {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #475569;
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .mentoring-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .mentoring-stats {
+    gap: 10px;
+  }
+
+  .mentoring-stat {
+    min-height: 110px;
+    padding: 15px 8px;
+  }
+
+  .stat-number {
+    font-size: 2.2rem;
+  }
+
+  .stat-label {
+    font-size: 0.8rem;
+  }
+}
+

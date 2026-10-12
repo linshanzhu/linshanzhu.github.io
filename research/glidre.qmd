@@ -1,0 +1,56 @@
+---
+title: "GLIDRE: Watching DNA Repair at Specific Genomic Loci"
+description: "Programmable genomic labeling, DNA repair-associated dynamics, and chromatin-dependent therapeutic responses."
+title-block-banner: false
+toc: true
+---
+
+[← All research highlights](../projects.qmd)
+
+**Research theme:** Observe — live-cell molecular imaging and DNA repair  
+**Manuscript status:** Under revision (confirm public disclosure before publishing figures)
+
+## The challenge
+
+Traditional DNA damage assays provide valuable endpoints but have difficulty tracking the damage response at a *defined, non-repetitive genomic locus* in the same living cell over time. GLIDRE (Genomic Locus Imaging and DSB Repair Monitoring by Elastin-like Proteins) was developed to provide locus-specific visualization combined with a dynamic repair-associated readout.
+
+## Discovery 1 — Amplifying signals at non-repetitive genomic loci
+
+![Figure 1. CRISPR-guided elastin-like protein assembly provides amplified locus-labeling signals in live cells. Source: uploaded GLIDRE manuscript, Figure 1.](images/glidre/image1.png){.research-figure}
+
+**Approach.** Engineered dCas9–SunTag complexes recruit elastin-like protein assemblies to the genomic target. Condensate-associated signal amplification makes non-repetitive loci accessible to live-cell observation.
+
+**Key finding.** The strategy provides an optical handle for following specified genomic sites and pairing locus tracking with induced DNA damage.
+
+## Discovery 2 — Measuring local DNA damage responses in real time
+
+![Figures 2–3. Locus-targeted damage and 53BP1 recruitment dynamics, including representative time-lapse sequences. Source: uploaded GLIDRE manuscript.](images/glidre/image3.png){.research-figure}
+
+**Approach.** Orthogonal AsCas12a induces DNA double-strand breaks near labeled loci, while recruitment and residence of the DNA damage response factor 53BP1 are monitored in living cells.
+
+**Key finding.** GLIDRE supports time-resolved, locus-specific assessment of repair-*associated* dynamics. Importantly, 53BP1 residence is a proxy for the response rather than a direct measurement of completed repair.
+
+## Discovery 3 — Chromatin state influences repair-associated kinetics and therapy response
+
+![Figure 4. Chromatin accessibility, transcription perturbation, and repair-associated residence dynamics. Source: uploaded GLIDRE manuscript.](images/glidre/image4.png){.research-figure}
+
+![Figure 5. H3.3K27M-associated chromatin dysregulation, SAHA treatment, and CAR T-cell spheroid response. Source: uploaded GLIDRE manuscript.](images/glidre/image5.png){.research-figure}
+
+**Key finding.** More accessible chromatin generally exhibited shorter 53BP1 residence than compacted chromatin, with transcription contributing in a context-dependent manner. In engineered H3.3K27M U2OS models, altered locus-specific dynamics accompanied reduced CAR T-cell response; SAHA treatment shifted the observed dynamics and increased spheroid sensitivity.
+
+## Live imaging video
+
+*Video placeholder:* when your GLIDRE video is available, put a compressed `.mp4` in `research/videos/` and embed it here:
+
+```{=html}
+<!-- Replace the placeholder below only after adding the actual video file:
+<video controls preload="metadata" playsinline width="100%">
+  <source src="videos/glidre.mp4" type="video/mp4">
+  Your browser does not support video playback.
+</video>
+-->
+```
+
+## Why it matters
+
+GLIDRE connects molecular imaging with a functional, chromatin-aware view of the DNA damage response, providing a framework for testing how local genomic context influences cellular resilience and treatment response.

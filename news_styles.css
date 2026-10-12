@@ -1,0 +1,26 @@
+/* Append these rules to the existing styles.css */
+.news-entry {
+  display: grid;
+  grid-template-columns: 74px minmax(0,1fr);
+  column-gap: 20px;
+  padding: 20px 0;
+  border-bottom: 1px solid #e5eaf0;
+}
+.news-year {
+  color: #17365d;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding-top: 3px;
+}
+.news-body h3 {
+  font-size: 1.12rem;
+  margin: 0 0 10px;
+  line-height: 1.4;
+  border: 0;
+}
+.news-body p { margin-bottom: 0.7rem; }
+.news-body a { font-weight: 600; }
+@media(max-width: 600px) {
+  .news-entry { grid-template-columns: 1fr; gap: 5px; }
+  .news-year { font-size: .85rem; }
+}

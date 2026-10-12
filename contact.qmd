@@ -6,19 +6,17 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Linshan Zhu, Ph.D.**
 
-School
+Alfred E. Mann Department of Biomedical Engineering
 
-College
+University of Southern California
 
-University
+Address: 1002 Childs Way, MCB 150, Los Angeles, CA 90089
 
-Address: 
+Phone: 213-783-9487
 
-Phone: 
-
-E-mail: 
+E-mail: linshanz@usc.edu
 
 
 </center>
