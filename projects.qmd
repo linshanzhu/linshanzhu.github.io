@@ -13,7 +13,7 @@ My research integrates quantitative imaging, molecular engineering, and external
 
 A CRISPR–ELP platform enables time-resolved imaging of genomic loci and DNA repair-associated responses, revealing chromatin-state-dependent dynamics.
 
-[![](research/images/glidre/image3.png){fig-alt="GLIDRE DNA repair imaging schematic and time-lapse"}](research/glidre.qmd)
+[![](research/images/glidre/GLIDRE_Overview.png){fig-alt="GLIDRE DNA repair imaging schematic and time-lapse"}](research/glidre.qmd)
 
 [Read the research story →](research/glidre.qmd)
 :::
@@ -24,7 +24,7 @@ A CRISPR–ELP platform enables time-resolved imaging of genomic loci and DNA re
 
 Directed evolution produces a PD-L1-binding monobody with enhanced recognition at lower pH, subsequently combined with a SynNotch-gated cellular therapy.
 
-[![](research/images/pdbody/image2.png){fig-alt="Directed evolution of the PDbody monobody"}](research/pdbody.qmd)
+[![](research/images/pdbody/PDbody_Overview.png){fig-alt="Directed evolution of the PDbody monobody"}](research/pdbody.qmd)
 
 [Read the research story →](research/pdbody.qmd)
 :::
@@ -35,7 +35,7 @@ Directed evolution produces a PD-L1-binding monobody with enhanced recognition a
 
 Modular receptors convert inhibitory TGF-β signaling into stimulatory pathways, while focused ultrasound and feedback enable durable local CAR activity.
 
-[![](research/images/echorewire/image3.png){fig-alt="EchoRewire CAR-T ultrasound feedback concept and results"}](research/echorewire.qmd)
+[![](research/images/echorewire/ER_Overview.png){fig-alt="EchoRewire CAR-T ultrasound feedback concept and results"}](research/echorewire.qmd)
 
 [Read the research story →](research/echorewire.qmd)
 :::
@@ -45,7 +45,7 @@ Modular receptors convert inhibitory TGF-β signaling into stimulatory pathways,
 
 CAR T cells express their cognate antigen in response to local thermal stimulation, enabling antigen-independent bystander cytotoxicity.
 
-[![](research/images/ciscar/figure3.png){fig-alt="FUS-CisCAR bystander tumor killing schematic and results"}](research/ciscar.qmd)
+[![](research/images/ciscar/CisCAR_Overview.png){fig-alt="FUS-CisCAR bystander tumor killing schematic and results"}](research/ciscar.qmd)
 
 [Read the research story →](research/ciscar.qmd)
 :::

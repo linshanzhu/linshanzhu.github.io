@@ -20,20 +20,16 @@ page-layout: full
 
 # Linshan Zhu, Ph.D.
 
-### Engineering Programmable Cellular Therapies
+### Sonogenetic Cell Therapies: Control from Outside the Body
 
-**Postdoctoral Researcher | University of Southern California**
+**Postdoctoral Researcher | University of Southern California | linshanz@usc.edu** 🌈
 
 I develop technologies that integrate synthetic biology, protein and cell engineering, quantitative imaging, and focused ultrasound to advance programmable cellular therapies.
 
-My long-term goal is to create engineered biological systems that can be precisely measured, dynamically regulated, and externally controlled.
+My long-term goal is to create engineered biological systems that can be precisely measured, dynamically regulated, and externally controlled, which can ultimately translate into clinic.
 
 
 <div class="profile-links">
-  <a href="mailto:linshanz@usc.edu">
-    <i class="bi bi-envelope"></i> E-mail
-  </a>
-
   <a href="https://www.linkedin.com/in/linshan-zhu-68632712a"
      target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin"></i> LinkedIn
@@ -62,7 +58,7 @@ My long-term goal is to create engineered biological systems that can be precise
 
 ## Research Overview
 
-![](files/images/research-overview.png){.research-overview fig-alt="Overview of research in molecular imaging, synthetic biology, and focused ultrasound"}
+![](files/images/ALL.png){.Observe fig-alt="ALL"}
 
 :::: {.columns}
 
@@ -78,7 +74,7 @@ Develop molecular imaging technologies to investigate cell signaling, chromatin 
 
 ::: {.column width="33%"}
 
-### 02. Engineer
+### 02. Program
 
 **Synthetic Biology & Immunoengineering**
 
@@ -95,22 +91,50 @@ Design programmable signaling circuits that enable therapeutic cells to overcome
 Engineer ultrasound-responsive biological systems for noninvasive spatiotemporal control of therapeutic cell functions.
 
 :::
-Explore all my major projects.
 
-[View Research Projects →](projects.qmd)
+
+[**View Research Projects →**](projects.qmd)
 
 ::::
 
 ## Selected Publications
-1. **Zhu L.**, Cui J., Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al. Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells. Molecular Therapy Oncology. 2026. [link](https://www.cell.com/molecular-therapy-family/oncology/fulltext/S2950-3299(26)00199-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2950329926001992%3Fshowall%3Dtrue)
-2. **Zhu L.**, Man C.W., Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L., Wang Y. Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy. ACS Nano. 2024. [link](https://pubs.acs.org/ancac3/article/18/11/8531/150501/Engineering-a-Programmed-Death-Ligand-1-Targeting)
-3. **Zhu L.**, Wu Y., Yoon C.W., Wang Y. Mechanogenetics for cellular engineering and cancer immunotherapy. Current Opinion in Biotechnology. 2020. [link](https://www.sciencedirect.com/science/article/pii/S0958166920300811?via%3Dihub)
-4. Zamat A., **Zhu L.**, Wang Y. Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics. Advanced Functional Materials. 2019. [link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.201904345)
 
-Explore all my publications in cellular engineering, molecular imaging, and programmable immunotherapies.
+1. **Zhu L.**, Monther A., Mouchawar A.C., Huang Y., Tsoy M., Yu X., Dong X., Huang Z., Peng Q., Qu Y., Wu Y., Liu L., Wang Y.  
+   **Programmable Imaging of Locus-Specific DNA Repair-Associated Dynamics Reveals Chromatin-Controlled Therapy Resistance in Cancer.**  
+   *Manuscript under revision.*
 
+2. Liu L.\*, **Zhu L.\***, Mouchawar A., Qu Y., Wu Z., Wang Y., Guo T., Chittle S., Nam C., Shao X., et al.  
+   **Reprogramming Immunosuppressive Signals for Sustained Sonogenetic CAR T-cell Therapy.**  
+   *Manuscript under revision.*
 
-[View Publications →](publications.qmd)
+3. **Zhu L.\***, Cui J.\*, Man C.W., Mouchawar A., Yu X., Huang Y., Wu Y., Guo T., Xu H., et al.  
+   [**Ultrasound controllable and antigen-independent killing via cis-activating CAR T cells**](https://doi.org/10.1016/j.omton.2026.201323).  
+   *Molecular Therapy Oncology*. **2026**.
+
+4. Qu Y., Wang Y., **Zhu L.**, Ma F., Yoon C.W., Chen X., Zhang J., Bishop C., Tang M., et al.  
+   [**Identifying and reprogramming softness-driven cancer stem-like cells overcomes CAR-T cell resistance in solid tumours**](https://doi.org/10.1038/s41551-026-01722-7).  
+   *Nature Biomedical Engineering*. **2026**.
+
+5. Liu L., He P., Wang Y., Ma F., Li D., Bai Z., Qu Y., **Zhu L.**, Yoon C.W., Yu X., et al.  
+   [**Engineering sonogenetic EchoBack-CAR T cells**](https://doi.org/10.1016/j.cell.2025.02.035).  
+   *Cell*. **2025**.
+
+6. **Zhu L.\***, Man C.W.\*, Harrison R., Limsakul P., Peng Q., Hashimoto M., Mamaril A., Xu H., Wu Z., Liu L.#, Wang Y.#  
+   [**Engineering a Programmed Death-Ligand 1-Targeting Monobody Via Directed Evolution for SynNotch-Gated Cell Therapy**](https://doi.org/10.1021/acsnano.4c01597).  
+   *ACS Nano*. **2024**.
+
+7. **Zhu L.**, Wu Y., Yoon C.W., Wang Y.  
+   [**Mechanogenetics for cellular engineering and cancer immunotherapy.** ](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300811?via%3Dihub) 
+   *Current Opinion in Biotechnology*. **2020**.
+
+8. Zamat A.\*, **Zhu L.\***, Wang Y.  
+   [**Engineering Molecular Machines for the Control of Cellular Functions for Diagnostics and Therapeutics.**](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.201904345)  
+   *Advanced Functional Materials*. **2019**.
+
+\* Equal contribution; # Corresponding author.
+
+[**View Complete Publication List →**](publications.qmd)
+
 
 ## Academic Background
 

@@ -16,7 +16,7 @@ PD-L1 is abundant in many tumors but also appears on healthy cells, creating ris
 
 ## Discovery 1 — Developing a PD-L1-binding scaffold
 
-![Figure 1. Monobody scaffold, binding assays, and dependence on experimental pH conditions. Source: uploaded PDbody manuscript.](images/pdbody/image1.png){.research-figure}
+![Figure 1. Monobody scaffold, binding assays, and dependence on experimental pH conditions.](images/pdbody/PDbody_Figure 1.png){.research-figure}
 
 **Approach.** A human fibronectin type III-derived monobody scaffold was evaluated for PD-L1 recognition, including its pH-dependent binding behavior.
 
@@ -24,7 +24,7 @@ PD-L1 is abundant in many tumors but also appears on healthy cells, creating ris
 
 ## Discovery 2 — Directed evolution improves recognition
 
-![Figure 2. Rational loop modification, library construction, and screening for improved PD-L1 recognition. Source: uploaded PDbody manuscript.](images/pdbody/image2.png){.research-figure}
+![Figure 2. Rational loop modification, library construction, and screening for improved PD-L1 recognition.](images/pdbody/image2.png){.research-figure}
 
 **Approach.** Rational design was combined with yeast display and successive directed-evolution libraries targeting monobody binding loops.
 
@@ -32,9 +32,7 @@ PD-L1 is abundant in many tumors but also appears on healthy cells, creating ris
 
 ## Discovery 3 — Building a gated cellular therapy
 
-![Figures 3–4. PDbody CAR testing and CD19-SynNotch-regulated PDbody CAR circuit. Source: uploaded PDbody manuscript.](images/pdbody/image4.png){.research-figure}
-
-![Figure 5. Tumor control experiments in vivo. Source: uploaded PDbody manuscript.](images/pdbody/image5.png){.research-figure}
+![Figures 3. CD19-SynNotch-regulated PDbody CAR in vitro and in vivo](images/pdbody/PDbody_Figure 3.png){.research-figure}
 
 **Approach.** A CD19-recognizing SynNotch circuit was used to induce PDbody-based CAR expression, requiring a priming antigen before PD-L1-directed effector activity.
 

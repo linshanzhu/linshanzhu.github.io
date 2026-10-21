@@ -37,22 +37,22 @@ website:
       - text: Contact
         href: contact.qmd                     
 
-    right: 
-      - text: CV
-        href: files/CV_Linshan Zhu.pdf 
-      - icon: rss
-        href: posts.xml
-        target: _blank
+    # right: 
+    #   - text: CV
+    #     href: files/CV_Linshan Zhu.pdf 
+    #   - icon: rss
+    #     href: posts.xml
+    #     target: _blank
   
   page-navigation: true
   
   page-footer: 
     left: "Linshan Zhu &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
-    right:  
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+    # right:  
+    #   - icon: rss
+    #     href: posts.xml
+    #     target: _blank  
   
   search:
     location: navbar
